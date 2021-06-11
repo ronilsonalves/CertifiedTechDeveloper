@@ -15,6 +15,7 @@ Pasta destinada a disciplina de Programação Imperativa.
 3. Também se deve escrever com suas palavras, o que cada função realiza. Seguem abaixo alguns exemplos.
 
 console.log(“O método Join realiza tal coisa”)
+
 console.log(RESULTADO_DO_JOIN)
 
 ### Aula Síncrona 05 - Arrays - Microdesafios (prática aluno)
