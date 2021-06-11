@@ -6,7 +6,7 @@ Pasta destinada a disciplina de Programação Imperativa.
 ## Lista de exercícios/projetos
 
 ### Aula Assíncrona 05 - Arrays - Microdesafios (entrega professor)
-[arraysMicroDesafios.js](../blob/main/PIM - Turma 5/Aula05/arraysMicroDesafios.js)
+[arraysMicroDesafios.js](../blob/main/PIM - Turma 5/Aula05/arraysListaDeComprasMicroDesafios.js)
 #### Exercício “Lista de Compras”
 1. Crie um array que contenha nomes de produtos para compra. 
 
