@@ -25,7 +25,7 @@ O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades pr
 
 ### Aula Assíncrona 05 (11/06/2021) - Arrays Básicos - Micro desafios (entrega professor) ✔️✔️
 #### Exercício “Lista de Compras”
-📄[arraysListaDeComprasMicroDesafios.js](/ProgramacaoImperativa/Aula05/arraysBasicosListaDeCompras.js) 
+📄[arraysListaDeCompras.js](/ProgramacaoImperativa/Aula05/arraysBasicosListaDeCompras.js) 
 1. Crie um array que contenha nomes de produtos para compra. 
 
 2. Após isso, exiba no console os resultados das funções relacionadas aos arrays, que são: Join, Pop, Push, Shift e Unshift. 
@@ -42,17 +42,17 @@ console.log(RESULTADO_DO_JOIN)
 ### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor) ✔️✔️
 #### Exercício "Praticando com Loops"
 ##### 1. Repetir como um papagaio
-📄[loopsRepetirComoPapagaioMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsRepetirComoPapagaioMicroDesafios.js) 
+📄[loopsRepetirComoPapagaio.js](/ProgramacaoImperativa/Aula06/loopsRepetirComoPapagaio.js) 
 
 Crie um loop utlizando <b>for</b> que se repita 5 vezes. Dentro de cada repetição se deve mostrar no console a mensagem <b>"Olá mundo"</b>.
 
 ##### 2. Contando números ímpares
-📄[loopsContadorNumerosImparesMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsContadorNumerosImparesMicroDesafios.js)
+📄[loopsContadorNumerosImpares.js](/ProgramacaoImperativa/Aula06/loopsContadorNumerosImpares.js)
 
 Crie um loop <b>for</b> de 1 a 10, em que exiba no console apenas o valor das repetições de números ímpares. Dica: A ideia é que nas repetições ímpares de 0 a 10 (1,3,5,7,8) sejam mostrados os números das repetições no console.
 
 ##### 3. Criando a tabuada
-📄[loopsCriandoATabuadaMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsCriandoATabuadaMicroDesafios.js)
+📄[loopsCriandoATabuada.js](/ProgramacaoImperativa/Aula06/loopsCriandoATabuada.js)
 
 Crie uma tabuada utilizando o <b>for</b>. Dica: Para essa tarefa você irá precisar utilizar dois loops (for).
 
