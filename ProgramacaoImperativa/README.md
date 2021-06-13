@@ -36,8 +36,14 @@ console.log(“O método Join realiza tal coisa”)
 
 console.log(RESULTADO_DO_JOIN)
 
-### Aula Síncrona 05 (11/06/2021) - Arrays Básicos - Micro desafios (prática do aluno) ⌛✔️
-...
+### Aula Síncrona 05 (11/06/2021) - Arrays Básicos - Micro desafios (prática do aluno) ✔️
+#### Exercício "Arrays"
+##### 1. Criar um arquivo arrays.js (o Aluno optou por utilizar exerciciosArraysPraticaPG.js).
+##### 2. Colocar todos os elementos em letras MAIÚSCULAS usando .toUpperCase() para cada elemento.
+##### 3. 4. Há outro array no código, adicionar os elementos deste array no array de filmes.
+##### 5. Remover o elemento em cartoons que não pertence ao conjunto antes de adicionar os elementos em filmes.
+##### 6. Criar uma função para comparar avaliações de dois diferentes grupos de usuários.
+📄[exerciciosArraysPraticaPG.js](/ProgramacaoImperativa/Aula05/exerciciosArraysPraticaPG.js)
 
 ### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor) ✔️✔️
 #### Exercício "Praticando com Loops"
