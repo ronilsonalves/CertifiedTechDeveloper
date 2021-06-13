@@ -5,7 +5,7 @@ Repositório com todos os códigos escritos durante o curso [Certified Tech Deve
 #### 1️º Bimestre [⌨️️]
  - [Banco de Dados I](#)
  - [Front End I](#)
- - Programação Imperativa - [Exercícios](/blob/main/ProgramacaoImperativa)
+ - Programação Imperativa - [Exercícios](/ProgramacaoImperativa)
  - [Introdução à Informática](#)
  - [Metodologias Ágeis](#)
  - [Learning Agility](#)
