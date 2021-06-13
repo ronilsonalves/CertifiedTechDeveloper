@@ -31,7 +31,7 @@ console.log(RESULTADO_DO_JOIN)
 ### Aula Síncrona 05 - Arrays Básicos - Micro desafios (prática do aluno) ⌛
 ...
 
-### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor)
+### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor) ✔️
 #### Exercício "Praticando com Loops"
 [loopsRepetirComoPapagaioMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsRepetirComoPapagaioMicroDesafios.js)
 <b>#1 Repetir como um papagaio</b>
