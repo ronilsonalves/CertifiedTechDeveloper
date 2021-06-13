@@ -12,7 +12,7 @@ O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades pr
 
 ## Lista de exercícios/projetos/micro desafios:
 
-### Aula Assíncrona 04 (08/06/2021) - Controle de Fluxo - Micro desafios (entrega professor) ✔️
+### Aula Assíncrona 04 (08/06/2021) - Controle de Fluxo - Micro desafios (entrega professor) ✔️✔️
 #### Exercício "Meu  Primeiro If"
 📄[fluxoMeuPrimeiroIf.js](/ProgramacaoImperativa/Aula04/fluxoMeuPrimeiroIf.js) 
 1. Declare uma variável com o nome status. Atribua a ela um valor booleano: (true ou false).
@@ -23,7 +23,7 @@ O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades pr
 📄[fluxoIgualdadeIfElse.js](/ProgramacaoImperativa/Aula04/fluxoIgualdadeIfElse.js) 
 1. Crie uma variável chamada linguagem, que terá uma string atribuída a ela. Em seguida, construa uma condicional if/else para que, se a variável estiver armazenando o valor "javascript", ela deve imprimir no console, o texto: "Estou aprendendo". Contudo, caso a variável esteja armazenando qualquer outra linguagem, imprima "Aprenderei mais tarde".
 
-### Aula Assíncrona 05 (11/06/2021) - Arrays Básicos - Micro desafios (entrega professor) ✔️
+### Aula Assíncrona 05 (11/06/2021) - Arrays Básicos - Micro desafios (entrega professor) ✔️✔️
 #### Exercício “Lista de Compras”
 📄[arraysListaDeComprasMicroDesafios.js](/ProgramacaoImperativa/Aula05/arraysBasicosListaDeCompras.js) 
 1. Crie um array que contenha nomes de produtos para compra. 
@@ -39,7 +39,7 @@ console.log(RESULTADO_DO_JOIN)
 ### Aula Síncrona 05 (11/06/2021) - Arrays Básicos - Micro desafios (prática do aluno) ⌛✔️
 ...
 
-### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor) ✔️
+### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor) ✔️✔️
 #### Exercício "Praticando com Loops"
 ##### 1. Repetir como um papagaio
 📄[loopsRepetirComoPapagaioMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsRepetirComoPapagaioMicroDesafios.js) 
