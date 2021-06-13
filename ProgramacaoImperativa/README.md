@@ -33,19 +33,19 @@ console.log(RESULTADO_DO_JOIN)
 
 ### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor) ✔️
 #### Exercício "Praticando com Loops"
-<b>#1 Repetir como um papagaio</b>
+<b>1. Repetir como um papagaio</b>
 
 [loopsRepetirComoPapagaioMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsRepetirComoPapagaioMicroDesafios.js)
 
 Crie um loop utlizando <b>for</b> que se repita 5 vezes. Dentro de cada repetição se deve mostrar no console a mensagem <b>"Olá mundo"</b>.
 
-<b>#2 Contando números ímpares</b>
+<b>2. Contando números ímpares</b>
 
 [loopsContadorNumerosImparesMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsContadorNumerosImparesMicroDesafios.js)
 
 Crie um loop <b>for</b> de 1 a 10, em que exiba no console apenas o valor das repetições de números ímpares. Dica: A ideia é que nas repetições ímpares de 0 a 10 (1,3,5,7,8) sejam mostrados os números das repetições no console.
 
-<b>#2 Criando a tabuada</b>
+<b>3. Criando a tabuada</b>
 
 [loopsCriandoATabuadaMicroDesafios.js](/ProgramacaoImperativa/Aula06/loopsCriandoATabuadaMicroDesafios.js)
 
