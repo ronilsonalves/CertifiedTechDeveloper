@@ -62,5 +62,14 @@ Crie um loop <b>for</b> de 1 a 10, em que exiba no console apenas o valor das re
 
 Crie uma tabuada utilizando o <b>for</b>. Dica: Para essa tarefa você irá precisar utilizar dois loops (for).
 
-### Aula Síncrona 06 (15/11/2021) - Loops - Micro desafios (prática do aluno)
-...
+### Aula Síncrona 06 (15/11/2021) - Loops - Micro desafios (prática do aluno) ✔️
+#### Exercício "Loops"
+##### 1. Percorrer o array (pontos) e exibir seus elementos
+##### 2. Crie um array com valores diversos, percorra-o, altere e mostre seus elementos.
+##### 3. Crie outro array, percorra-o, altere, salve e exiba seus elementos. (Usando funções & domínios separados)
+##### 4. Crie um último array, percorra-o, selecione os elementos, salve e mostre-os.
+##### 5. Exercícios extras:
+###### 5.1 Escrever um programa que imprime 25 termos da série 11 - 22 - 33 - 44, etc. 
+###### 5.2 Mostrar os múltiplos de 8 até o valor 500. A tela deve mostrar 8 -16 -24;
+###### 5.3 Usando FOR, desenvolver um programa que mostre a tabuada de 5.
+📄[microDesafiosExerciciosComLoopsPraticaPG.js](/ProgramacaoImperativa/Aula06/microDesafiosExerciciosComLoopsPraticaPG.js)
