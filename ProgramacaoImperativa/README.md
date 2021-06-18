@@ -65,7 +65,7 @@ Crie um loop <b>for</b> de 1 a 10, em que exiba no console apenas o valor das re
 
 Crie uma tabuada utilizando o <b>for</b>. Dica: Para essa tarefa você irá precisar utilizar dois loops (for).
 
-### Aula Síncrona 06 (15/06/2021) - Loops - Micro desafios (prática do aluno) ✔️
+### Aula Assíncrona 06 (15/06/2021) - Loops - Micro desafios (prática do aluno) ✔️
 #### Exercício "Loops"
 ##### 1. Percorrer o array (pontos) e exibir seus elementos
 ##### 2. Crie um array com valores diversos, percorra-o, altere e mostre seus elementos.
