@@ -88,5 +88,5 @@ Crie uma função acaoCarro(), que receberá uma callback como parâmetro. Após
 
 Execute ambas as ações utilizando a função acaoCarro(), passando suas ações como callbacks.
 
-### Aula Síncrona 07 (18/06/2021) - Loops - Micro desafios (prática do aluno) ⌛
+### Aula Síncrona 07 (18/06/2021) - Funções Avançadas - Micro desafios (prática do aluno) ⌛
 ...
