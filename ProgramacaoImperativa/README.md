@@ -2,6 +2,9 @@
 Este diretório contém todos os exercícios, projetos, micro desafios da disciplina de <b>Programação Imperativa</b> realizados por [Ronilson Alves](https://linkedin.com/in/ronilsonalves).
 O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades propostas pelos professores.
 
+###### INDICE
+<i>... em construção</i>
+
 ###### LEGENDA:
 - 📄 > Código fonte (arquivo.js) para verificação pelo professor.
 - ✔️ > Indica que os exercícios foram realizados pelo aluno dentro do prazo estipulado pelo professor.
@@ -45,7 +48,7 @@ console.log(RESULTADO_DO_JOIN)
 ##### 6. Criar uma função para comparar avaliações de dois diferentes grupos de usuários.
 📄[exerciciosArraysPraticaPG.js](/ProgramacaoImperativa/Aula05/exerciciosArraysPraticaPG.js)
 
-### Aula Assíncrona 06 (15/11/2021) - Loops - Micro desafios (entrega professor) ✔️✔️
+### Aula Assíncrona 06 (15/06/2021) - Loops - Micro desafios (entrega professor) ✔️✔️
 #### Exercício "Praticando com Loops"
 ##### 1. Repetir como um papagaio
 📄[loopsRepetirComoPapagaio.js](/ProgramacaoImperativa/Aula06/loopsRepetirComoPapagaio.js) 
@@ -62,7 +65,7 @@ Crie um loop <b>for</b> de 1 a 10, em que exiba no console apenas o valor das re
 
 Crie uma tabuada utilizando o <b>for</b>. Dica: Para essa tarefa você irá precisar utilizar dois loops (for).
 
-### Aula Síncrona 06 (15/11/2021) - Loops - Micro desafios (prática do aluno) ✔️
+### Aula Síncrona 06 (15/06/2021) - Loops - Micro desafios (prática do aluno) ✔️
 #### Exercício "Loops"
 ##### 1. Percorrer o array (pontos) e exibir seus elementos
 ##### 2. Crie um array com valores diversos, percorra-o, altere e mostre seus elementos.
@@ -73,3 +76,17 @@ Crie uma tabuada utilizando o <b>for</b>. Dica: Para essa tarefa você irá prec
 ###### 5.2 Mostrar os múltiplos de 8 até o valor 500. A tela deve mostrar 8 -16 -24;
 ###### 5.3 Usando FOR, desenvolver um programa que mostre a tabuada de 5.
 📄[microDesafiosExerciciosComLoopsPraticaPG.js](/ProgramacaoImperativa/Aula06/microDesafiosExerciciosComLoopsPraticaPG.js)
+
+### Aula Síncrona 07 (18/06/2021) - Funções Avançadas - Micro desafios (entrega professor) ⚠️(enviado após 18/06/2021)
+#### Exercício #1 “Transformando funções” -- Arrow Functions
+📄[arrowFunctionsTransformandoFuncoes.js](/ProgramacaoImperativa/Aula07/arrowFunctionsTransformandoFuncoes.js)
+Transforme funções em arrow functions
+
+#### Exercício #2 “Terceirizando funções” -- Callbacks
+📄[callbacksTerceirizandoFuncoes.js](/ProgramacaoImperativa/Aula07/callbacksTerceirizandoFuncoes.js)
+Crie uma função acaoCarro(), que receberá uma callback como parâmetro. Após isso, crie duas funções: andar() – deve exibir uma mensagem dizendo que o carro está andando – e parar() – deve exibir uma mensagem dizendo que o carro parou
+
+Execute ambas as ações utilizando a função acaoCarro(), passando suas ações como callbacks.
+
+### Aula Síncrona 07 (18/06/2021) - Loops - Micro desafios (prática do aluno) ⌛
+...
