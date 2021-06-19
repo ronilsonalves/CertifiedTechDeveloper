@@ -80,10 +80,12 @@ Crie uma tabuada utilizando o <b>for</b>. Dica: Para essa tarefa você irá prec
 ### Aula Assíncrona 07 (18/06/2021) - Funções Avançadas - Micro desafios (entrega professor) ⚠️(enviado após 18/06/2021)
 #### Exercício #1 “Transformando funções” -- Arrow Functions
 📄[arrowFunctionsTransformandoFuncoes.js](/ProgramacaoImperativa/Aula07/arrowFunctionsTransformandoFuncoes.js)
+
 Transforme funções em arrow functions
 
 #### Exercício #2 “Terceirizando funções” -- Callbacks
 📄[callbacksTerceirizandoFuncoes.js](/ProgramacaoImperativa/Aula07/callbacksTerceirizandoFuncoes.js)
+
 Crie uma função acaoCarro(), que receberá uma callback como parâmetro. Após isso, crie duas funções: andar() – deve exibir uma mensagem dizendo que o carro está andando – e parar() – deve exibir uma mensagem dizendo que o carro parou
 
 Execute ambas as ações utilizando a função acaoCarro(), passando suas ações como callbacks.
