@@ -96,11 +96,14 @@ Execute ambas as ações utilizando a função acaoCarro(), passando suas açõe
 ### Aula Assíncrona 08 (22/06/2021) - Objetos Literais - Micro desafios (entrega professor) ⌛
 #### Exercício #1 "Meu cardápio" -- O que são objetos?
 📄[objetosMeuCardapio.js](/ProgramacaoImperativa/Aula08/objetosMeuCardapio.js)
+
 Crie uma função construtora chamada Restaurante, que receba como parâmetros o nome do restaurante e o cardápio (que será um array de strings).
 
 Após isso chame a função entrada() dentro do objeto, que irá trazer uma mensagem de boas-vindas, informando o nome do restaurante, e o cardápio.
-#### Exercício #1 "Meu cardápio" -- O que são objetos?
+
+#### Exercício #2 "Ver números" -- Spread e parâmetros rest
 📄[spreadVerNumeros.js](/ProgramacaoImperativa/Aula08/spreadVerNumeros.js)
+
 Crie um array numerosPrimos e atribua alguns valores a ele que correspondam ao seu nome. Além disso, crie outro array, desta vez chamado numeros, que deve conter os valores do array numerosPrimos adicionados através do spread, juntos com outros números.
 
 Crie uma função maiorNumero() que receba N parâmetros, e retorne o menor número entre eles, utilizando a função Math.min(). Uma observação importante é que a função Math.min() NÃO deve receber um array como parâmetro, sendo portanto, necessário expandir os valores.
