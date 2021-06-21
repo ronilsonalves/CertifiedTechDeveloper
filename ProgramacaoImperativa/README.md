@@ -2,8 +2,12 @@
 Este diretório contém todos os exercícios, projetos, micro desafios da disciplina de <b>Programação Imperativa</b> realizados por [Ronilson Alves](https://linkedin.com/in/ronilsonalves).
 O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades propostas pelos professores.
 
-###### INDICE
-<i>... em construção</i>
+<!-- ###### ÍNDICE
+-- [AULA 04](#aula-assíncrona-04-08062021---controle-de-fluxo---micro-desafios-entrega-professor-%EF%B8%8F%EF%B8%8F)
+-- [AULA 05](#aula-assíncrona-05-11062021---arrays-básicos---micro-desafios-entrega-professor-%EF%B8%8F%EF%B8%8F)
+-- [AULA 06](#aula-assíncrona-06-15062021---loops---micro-desafios-entrega-professor-%EF%B8%8F%EF%B8%8F)
+-- [AULA 07](#aula-assíncrona-07-18062021---funções-avançadas---micro-desafios-entrega-professor-%EF%B8%8Fenviado-após-18062021)
+-- [AULA 08](#aula-assíncrona-08-22062021---objetos-literais---micro-desafios-entrega-professor-) -->
 
 ###### LEGENDA:
 - 📄 > Código fonte (arquivo.js) para verificação pelo professor.
@@ -77,7 +81,7 @@ Crie uma tabuada utilizando o <b>for</b>. Dica: Para essa tarefa você irá prec
 ###### 5.3 Usando FOR, desenvolver um programa que mostre a tabuada de 5.
 📄[microDesafiosExerciciosComLoopsPraticaPG.js](/ProgramacaoImperativa/Aula06/microDesafiosExerciciosComLoopsPraticaPG.js)
 
-### Aula Assíncrona 07 (18/06/2021) - Funções Avançadas - Micro desafios (entrega professor) ⚠️(enviado após 18/06/2021)
+### Aula Assíncrona 07 (18/06/2021) - Funções Avançadas - Micro desafios (entrega professor) ⚠️(enviado 18/06/2021)
 #### Exercício #1 “Transformando funções” -- Arrow Functions
 📄[arrowFunctionsTransformandoFuncoes.js](/ProgramacaoImperativa/Aula07/arrowFunctionsTransformandoFuncoes.js)
 
@@ -93,7 +97,7 @@ Execute ambas as ações utilizando a função acaoCarro(), passando suas açõe
 ### Aula Síncrona 07 (18/06/2021) - Funções Avançadas - Micro desafios (prática do aluno) ⌛
 ...
 
-### Aula Assíncrona 08 (22/06/2021) - Objetos Literais - Micro desafios (entrega professor) ⌛
+### Aula Assíncrona 08 (22/06/2021) - Objetos Literais - Micro desafios (entrega professor) ✔️✔️
 #### Exercício #1 "Meu cardápio" -- O que são objetos?
 📄[objetosMeuCardapio.js](/ProgramacaoImperativa/Aula08/objetosMeuCardapio.js)
 
