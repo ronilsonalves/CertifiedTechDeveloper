@@ -114,6 +114,7 @@ Crie uma função maiorNumero() que receba N parâmetros, e retorne o menor núm
 
 ### Aula Assíncrona 09 (25/06/2021) - Módulos - Micro desafios (entrega professor) ✔️✔️
 📄[exercioImportacoesModulos.js](/ProgramacaoImperativa/Aula09/exercioImportacoesModulos.js)
+
 📄[Restaurante.js](/ProgramacaoImperativa/Aula09/Modulos/Restaurante.js)
 
 Crie um módulo que exporte uma função (em um arquivo separado).
