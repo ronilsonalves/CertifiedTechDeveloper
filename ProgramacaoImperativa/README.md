@@ -111,3 +111,11 @@ Após isso chame a função entrada() dentro do objeto, que irá trazer uma mens
 Crie um array numerosPrimos e atribua alguns valores a ele que correspondam ao seu nome. Além disso, crie outro array, desta vez chamado numeros, que deve conter os valores do array numerosPrimos adicionados através do spread, juntos com outros números.
 
 Crie uma função maiorNumero() que receba N parâmetros, e retorne o menor número entre eles, utilizando a função Math.min(). Uma observação importante é que a função Math.min() NÃO deve receber um array como parâmetro, sendo portanto, necessário expandir os valores.
+
+### Aula Assíncrona 09 (25/06/2021) - Módulos - Micro desafios (entrega professor) ✔️✔️
+📄[exercioImportacoesModulos.js](/ProgramacaoImperativa/Aula09/exercioImportacoesModulos.js)
+📄[Restaurante.js](/ProgramacaoImperativa/Aula09/Modulos/Restaurante.js)
+
+Crie um módulo que exporte uma função (em um arquivo separado).
+
+Após isso, importe o módulo no arquivo principal e execute a função importada.
