@@ -1,4 +1,4 @@
-# Certified Tech Developer (Programção Imperativa)
+# Certified Tech Developer (FrontEnd I)
 Este diretório contém todos os exercícios, projetos, micro desafios da disciplina de <b>FrontEnd I</b> realizados por [Ronilson Alves](https://linkedin.com/in/ronilsonalves).
 O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades propostas pelos professores.
 
