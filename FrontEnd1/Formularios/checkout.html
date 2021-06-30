@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finalize sua compra</title>
+</head>
+<body>
+    <header>
+    </header>
+
+    <main>
+        <div>
+            <h1>Vamos finalizar sua compra?</h1>
+            <p>Preencha os dados abaixo e conclua sua compra.</p>
+            <form action="#" method="post">
+                <section>
+                    <h3>Informações pessoais</h3>
+                    <div>
+                        <label for="nome">Nome</label>
+                        <input type="text" id="nome" name="nome" placeholder="Seu nome completo">
+                    </div>
+                    <div>
+                        <label for="cpf">CPF</label>
+                        <input type="number" id="cpf" name="cpf" placeholder="Somente números">
+                    </div>
+                    <div>
+                        <label for="data-nascimento">Data de nascimento</label>
+                        <input type="date" id="data-nascimento" name="data-nascimento">
+                    </div>
+                    <div>
+                        <label for="telefone">Celular</label>
+                        <input type="number" id="telefone" name="telefone" placeholder="Somente números">
+                    </div>
+                    <div>
+                        <label for="endereco">Endereço</label>
+                        <input type="text" id="endereco" name="endereco" placeholder="Rua/Av...">
+                    </div>
+                </section>
+                <section>
+                    <h3>Entrega</h3>
+                    <div>
+                        <label for="endereco_entrega">Endereço de entrega é o mesmo?</label>
+                        <input type="checkbox" id="endereco_entrega" name="endereco_entrega">
+                    </div>
+                    <div>
+                        <label for="frete">Correios/PAC</label>
+                        <input type="radio" name="frete" id="frete">
+                    </div>
+                    <div>
+                        <label for="frete">Correios/SEDEX</label>
+                        <input type="radio" name="frete" id="frete">
+                    </div>
+                    <div>
+                        <label for="frete">Transportadora</label>
+                        <input type="radio" name="frete" id="frete">
+                    </div>
+                </section>
+                <section>
+                    <h3>Pagamento</h3>
+                    Use seu cartão de crédito
+                    <div>
+                        <p>Escolha a bandeira do seu cartão</p>
+                        <label for="bandeira-cartao">Visa</label>
+                        <input type="radio" name="bandeira-cartao" id="bandeira-cartao">
+                        <label for="bandeira-cartao">Mastercard</label>
+                        <input type="radio" name="bandeira-cartao" id="bandeira-cartao">
+                        <label for="bandeira-cartao">Elo</label>
+                        <input type="radio" name="bandeira-cartao" id="bandeira-cartao">
+                        <label for="bandeira-cartao">Diners</label>
+                        <input type="radio" name="bandeira-cartao" id="bandeira-cartao">
+                        <label for="bandeira-cartao">American Express</label>
+                        <input type="radio" name="bandeira-cartao" id="bandeira-cartao">
+                    </div>
+                    <div>
+                        <label for="titular">Nome do titular</label>
+                        <input type="text" id="titular" name="titular" placeholder="Nome no cartão">
+                    </div>
+                    <div>
+                        <label for="numero_cartao">Número do Cartão</label>
+                        <input type="text" name="numero_cartao" id="numero_cartao">
+                    </div>
+                    <div>
+                        <label for="vencimento_cartao">Validade</label>
+                        <p>Mês/Ano</p>
+                        <select name="vencimento_cartao" id="vencimento_cartao">
+                            <option>01</option>
+                            <option>02</option>
+                            <option>03</option>
+                            <option>04</option>
+                            <option>05</option>
+                            <option>06</option>
+                            <option>07</option>
+                            <option>08</option>
+                            <option>09</option>
+                            <option>10</option>
+                            <option>11</option>
+                            <option>12</option>
+                        </select>
+                        <select name="vencimento_cartao" id="vencimento_cartao">
+                            <option>21</option>
+                            <option>22</option>
+                            <option>22</option>
+                            <option>24</option>
+                            <option>25</option>
+                            <option>26</option>
+                            <option>27</option>
+                            <option>28</option>
+                            <option>29</option>
+                            <option>30</option>
+                            <option>31</option>
+                            <option>32</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="cvc">Código de Segurança</label>
+                        <input type="number" name="cvc" id="cvc">
+                    </div>
+                    <div>
+                        <label for="parcelamento">Parcelamento</label>
+                        <p>Selecione a quantidade de parcelas</p>
+                        <select name="vencimento_cartao" id="vencimento_cartao">
+                            <option>01 x R$ xxx,xx</option>
+                            <option>02 x R$ xx,xx</option>
+                            <option>03 x R$ xx,xx</option>
+                            <option>04 x R$ xx,xx</option>
+                            <option>05 x R$ xx,xx</option>
+                            <option>06 x R$ xx,xx</option>
+                            <option>07 x R$ xx,xx</option>
+                            <option>08 x R$ xx,xx</option>
+                            <option>09 x R$ xx,xx</option>
+                            <option>10 x R$ xx,xx</option>
+                            <option>11 x R$ xx,xx</option>
+                            <option>12 x R$ xx,xx</option>
+                        </select>
+                    </div>
+                </section>
+                <div>
+                    <button type="submit">Finalizar compra</button>
+                </div>
+            </form>
+        </div>
+    </main>
+    
+</body>
+</html>
