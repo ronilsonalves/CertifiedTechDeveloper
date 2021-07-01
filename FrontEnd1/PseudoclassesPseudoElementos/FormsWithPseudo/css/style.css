@@ -1,0 +1,97 @@
+* {
+    margin: 2px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.corpo-formulario {
+    width: 720px;
+}
+
+.div-formulario {
+    padding-left: 23px;
+    margin: auto;
+    width: 65%;
+    padding: 10px;
+}
+
+.item-form {
+    width: 480;
+    padding: 0px 2px 5px 0px;
+}
+
+input {
+    width: 100%;
+    align-items: left;
+}
+
+.item {
+    width: auto;
+    align-items: right;
+    border-radius: 2px;
+    border-color: rebeccapurple;
+}
+
+.cvc {
+    width: 10%;
+    align-items: center;
+    display: block;
+}
+
+input:hover {
+    border-color: rebeccapurple;
+    border-radius: 8px;
+    color: rebeccapurple;
+}
+
+input:active {
+    border-color: rebeccapurple;
+}
+
+.item-label::after {
+    content: '*';
+    color: red;
+}
+
+#titulo {
+    font-size: 36px;
+    padding-bottom: 2px;
+    padding-block: 16px;
+    text-align: center;
+    color: rebeccapurple
+}
+
+.subtitulo {
+    font-size: 21px;
+    padding: 12px 0px;
+    color: rebeccapurple
+}
+
+.descricao {
+    padding: 1px 0px 13px;
+}
+
+#button-finalizar-compra {
+    width: 100%;
+    padding: 6px 6px 6px 6px;
+    font-size: 20px;
+    color: #FFF;
+    background-color: rebeccapurple;
+    border-radius: 8px;
+    align-content: center;
+    align-items: center;
+}
+
+#div-finalizar-compra {
+    padding-top: 15px;
+    align-items: center;
+    
+}
+
+#button-finalizar-compra:hover {
+    padding: 8px 8px 8px 8px;
+    font-size: 22px;
+    color: #FFF;
+    background-color: rgba(153, 51, 139, 0.719);
+    border-radius: 10px;
+}

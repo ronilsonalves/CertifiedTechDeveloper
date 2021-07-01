@@ -1,0 +1,160 @@
+<!-- Nesta prática, foram utilizados os seletores (pseudo seletores & pseudo elementos) apresentados em aula aplicado à
+prática de formulários da aula passada.-->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finalize sua compra - Estilizado com CSS e Usando Pseudo Classes & Pseudo Elementos</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+    </header>
+    <h1 id="titulo">Vamos finalizar sua compra?</h1>
+    <main>
+        <section id="corpo-formulario">
+            <div class="div-formulario">
+                <form action="#">
+                    <section>
+                        <p class="descricao">Preencha os dados abaixo e conclua sua compra.</p>
+                        <h3 class="subtitulo">Informações pessoais</h3>
+                        <div class="item-form">
+                            <label class="item-label" for="nome">Nome</label>
+                            <input type="text" id="nome" name="nome" placeholder="Seu nome completo" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="cpf">CPF</label>
+                            <input type="number" id="cpf" name="cpf" placeholder="Somente números" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="data-nascimento">Data de nascimento</label>
+                            <input type="date" id="data-nascimento" name="data-nascimento" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="telefone">Celular</label>
+                            <input type="number" id="telefone" name="telefone" placeholder="Somente números" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="email">Email</label>
+                            <input type="email" id="email" name="email" placeholder="seumelhoremail@provedor.com" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="endereco">Endereço</label>
+                            <input type="text" id="endereco" name="endereco" placeholder="Rua/Av... nº, bairro, cidade, estado e cep">
+                        </div>
+                    </section>
+                    <section>
+                        <h3 class="subtitulo">Entrega</h3>
+                        <div class="item-form">
+                            <label class="item-label" for="opcao_entrega">Escolha a opção de entrega</label>
+                        </div>
+                        <div class="item-form">
+                            <label for="frete">Correios/PAC</label>
+                            <input class="item" type="radio" name="frete" id="frete" value="Correios/PAC" required>
+                        </div>
+                        <div class="item-form">
+                            <label for="frete">Correios/SEDEX</label>
+                            <input class="item" type="radio" name="frete" id="frete" value="Correios/SEDEX" required>
+                        </div>
+                        <div class="item-form">
+                            <label for="frete">Transportadora</label>
+                            <input class="item" type="radio" name="frete" id="frete" value="Transportadora" required>
+                        </div>
+                    </section>
+                    <section>
+                        <h3 class="subtitulo">Pagamento</h3>
+                        <p class="descricao">Use seu cartão de crédito</p>
+                        <div class="item-form">
+                            <label class="item-label">Escolha a bandeira do seu cartão:</label>
+                            <label for="bandeira-cartao">Visa</label>
+                            <input class="item" type="radio" name="bandeira-cartao" id="bandeira-cartao" required>
+                            <label for="bandeira-cartao">Mastercard</label>
+                            <input class="item" type="radio" name="bandeira-cartao" id="bandeira-cartao" required>
+                            <label for="bandeira-cartao">Elo</label>
+                            <input class="item" type="radio" name="bandeira-cartao" id="bandeira-cartao" required>
+                            <label for="bandeira-cartao">Diners</label>
+                            <input class="item" type="radio" name="bandeira-cartao" id="bandeira-cartao" required>
+                            <label for="bandeira-cartao">American Express</label>
+                            <input class="item" type="radio" name="bandeira-cartao" id="bandeira-cartao" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="titular">Nome do Titular</label>
+                            <input type="text" id="titular" name="titular" placeholder="Assim como está no cartão" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="numero_cartao">Número do Cartão</label>
+                            <input type="text" name="numero_cartao" id="numero_cartao" placeholder="Somente números" required>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="vencimento_cartao">Validade</label>
+                            <p>Mês/Ano</p>
+                            <select name="vencimento_cartao" id="vencimento_cartao" required>
+                                <option value="null"selected>--</option>
+                                <option value="01">01</option>
+                                <option value="02">02</option>
+                                <option value="03">03</option>
+                                <option value="04">04</option>
+                                <option value="05">05</option>
+                                <option value="06">06</option>
+                                <option value="07">07</option>
+                                <option value="08">08</option>
+                                <option value="09">09</option>
+                                <option value="10">10</option>
+                                <option value="11">11</option>
+                                <option value="12">12</option>
+                            </select>
+                            <select name="vencimento_cartao" id="vencimento_cartao" required>
+                                <option value="null" selected>--</option>
+                                <option value="21">21</option>
+                                <option value="22">22</option>
+                                <option value="23">23</option>
+                                <option value="24">24</option>
+                                <option value="25">25</option>
+                                <option value="26">26</option>
+                                <option value="27">27</option>
+                                <option value="28">28</option>
+                                <option value="29">29</option>
+                                <option value="30">30</option>
+                                <option value="31">31</option>
+                                <option value="32">32</option>
+                            </select>
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="cvc">Código de Segurança</label>
+                            <input class="cvc" type="number" name="cvc" id="cvc">
+                        </div>
+                        <div class="item-form">
+                            <label class="item-label" for="parcelamento">Parcelamento</label>
+                            <p>Selecione a quantidade de parcelas</p>
+                            <select name="vencimento_cartao" id="vencimento_cartao">
+                                <option>01 x R$ xxx,xx</option>
+                                <option>02 x R$ xx,xx</option>
+                                <option>03 x R$ xx,xx</option>
+                                <option>04 x R$ xx,xx</option>
+                                <option>05 x R$ xx,xx</option>
+                                <option>06 x R$ xx,xx</option>
+                                <option>07 x R$ xx,xx</option>
+                                <option>08 x R$ xx,xx</option>
+                                <option>09 x R$ xx,xx</option>
+                                <option>10 x R$ xx,xx</option>
+                                <option>11 x R$ xx,xx</option>
+                                <option>12 x R$ xx,xx</option>
+                            </select>
+                        </div>
+                    </section>
+                    <div id="div-finalizar-compra">
+                        <button id="button-finalizar-compra" type="submit">Finalizar compra</button>
+                    </div>
+                </form>
+            </div>
+        </container>
+        
+    </main>
+    
+</body>
+</html>
