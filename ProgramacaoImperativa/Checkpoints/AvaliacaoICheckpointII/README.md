@@ -20,4 +20,4 @@ Olá, você foi contratado para executar este projeto. É importante que você a
 - No final de cada tarefa, o microondas deverá exibir a mensagem: "Prato pronto, bom apetite!!!".
 
 ## A solução:
-[Clique aqui para consultar o arquivo .js](/microondas.js)
+[Clique aqui para consultar o arquivo .js](microondas.js)
