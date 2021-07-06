@@ -122,7 +122,7 @@ Crie um módulo que exporte uma função (em um arquivo separado).
 Após isso, importe o módulo no arquivo principal e execute a função importada.
 
 ### Aula Assíncrona 12 (06/07/2021) - Métodos de arrays avançados (entrega professor) ✔️✔️
-📄[exercioMetodosDeArrays.js](/ProgramacaoImperativa/Aula10/exercioMetodosDeArrays.js)
+📄[exercioMetodosDeArrays.js](/ProgramacaoImperativa/Aula12/exercioMetodosDeArrays.js)
 
 1. Crie um array de números pares, e utilizando a função .map() nesse array, crie um novo array com apenas números ímpares.
 
