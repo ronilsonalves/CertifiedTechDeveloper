@@ -1,4 +1,4 @@
-/* Exercício Métodas de Arrays Avançados #1 - Aula 10
+/* Exercício Métodas de Arrays Avançados #1 - Aula 12
  - Ronilson Alves - */
 
 /* 1. Crie um array de números pares, e utilizando a função .map() nesse array, crie um novo array com apenas números ímpares. */
