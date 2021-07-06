@@ -1,4 +1,4 @@
-/* Exercício Módulos #1 - Aula 08 - Arq de exportação
+/* Exercício Módulos #1 - Aula 09 - Arq de exportação
     -> Crie um módulo que exporte uma função (em um arquivo separado).
     -> Após isso, importe o módulo no arquivo principal e execute a função importada.
  - Ronilson Alves - */
