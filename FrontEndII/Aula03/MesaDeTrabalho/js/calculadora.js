@@ -49,7 +49,6 @@ function exibirResultado(opUsuario) {
             alert("Você escolheu SOMAR. Informe os números no campo a ser informado a seguir.")
             primNum = parseInt(prompt("Informe o 1º Número:"));
             segNum = parseInt(prompt("Informe o 2º Número:"));
-            resultado = somar(primNum,segNum);
             alert("RESULTADO: " + somar(primNum,segNum).toString());
             console.log("Soma: ",somar(primNum,segNum));
             break;
