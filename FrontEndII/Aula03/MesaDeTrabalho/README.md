@@ -1,4 +1,4 @@
-# Certified Tech Developer (Front End II)
+# Certified Tech Developer (Front End II - Aula 03 - Mesa de Trabalho 06)
 Este diretório contém todos os exercícios, projetos, micro desafios e mesas de trabalho da disciplina de <b>Front End II</b> realizados por [Ronilson Alves](https://linkedin.com/in/ronilsonalves).
 O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades propostas pelos professores.
 
