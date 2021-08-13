@@ -5,11 +5,13 @@ O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades pr
 ## Estrutura do projeto:
 📄[index.html](/FrontEndII/Aula03/index.html)
 
-📄[calculadora.js](/FrontEndII/Aula03/js/calculadora.js) 
-   - 📄[modules/somar.js](/FrontEndII/Aula03/js/modules/somar.js) 
-   - 📄[modules/subtrair.js](/FrontEndII/Aula03/js/modules/subtrair.js) 
-   - 📄[modules/multiplicar.js](/FrontEndII/Aula03/js/modules/multiplicar.js) 
-   - 📄[modules/dividir.js](/FrontEndII/Aula03/js/modules/dividir.js)
+📄[calculadora.js](/FrontEndII/Aula03/MesaDeTrabalho/js/calculadora.js) 
+   - 📄[modules/somar.js](/FrontEndII/Aula03/MesaDeTrabalho/js/modules/somar.js) 
+   - 📄[modules/subtrair.js](/FrontEndII/Aula03/MesaDeTrabalho/js/modules/subtrair.js) 
+   - 📄[modules/multiplicar.js](/FrontEndII/Aula03/MesaDeTrabalho/js/modules/multiplicar.js) 
+   - 📄[modules/dividir.js](/FrontEndII/Aula03/MesaDeTrabalho/js/modules/dividir.js)
+
+🌐 [Veja ao vivo](https://ronilsonalves.github.io/CertifiedTechDeveloper/FrontEndII/Aula03/MesaDeTrabalho/index.html)
 
 ### O que vem por aí?
 Esse é um projeto inicial, que apenas cumpre com os requisitos do material do PG. A ideia aqui, é que ao longo do curso eu vá implementando algumas coisas, como:
@@ -19,7 +21,6 @@ Esse é um projeto inicial, que apenas cumpre com os requisitos do material do P
 
 ### Aula 03 (12/08/2021) - Prática Integradora - Calculadora (Mesa de trabalho 06) ✔️✔️
 #### Micro desafios - Etapa I - Primeiro momento
-
 O tech leader da equipe precisa programar uma calculadora básica que execute as quatro operações básicas. Para isso, será necessário:
 
 1. Crie um arquivo <b>somar.js</b> contendo uma função chamada somar, que deve ser exportada no final do arquivo. Esta função deve receber 2 parâmetros e retornar a soma dos mesmos.
@@ -35,7 +36,6 @@ O tech leader da equipe precisa programar uma calculadora básica que execute as
 Para verificar se tudo está bem até agora, recomendamos que você experimente cada uma das funções e teste seu correto funcionamento.
 
 #### Micro desafios - Etapa II - Segundo momento (Extra)
-
 Se chegamos tão longe, é porque o tech leader da equipe está bastante satisfeito e, portanto, atribuiu novas tarefas:
 
 1. Criar um arquivo calculadora.js no qual serão necessários os quatro arquivos feitos anteriormente.
