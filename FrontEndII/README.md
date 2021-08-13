@@ -37,7 +37,7 @@ O tech leader da equipe precisa programar uma calculadora básica que execute as
 Para verificar se tudo está bem até agora, recomendamos que você experimente cada uma das funções e teste seu correto funcionamento.
 
 #### Micro desafios - Etapa II - Segundo momento (Extra)
-📄[index.html](/FrontEndII/Aula03/index.html) 
+📄[index.html](/FrontEndII/Aula03/index.html)
 📄[calculadora.js](/FrontEndII/Aula03/js/calculadora.js) 
    - 📄[modules/somar.js](/FrontEndII/Aula03/js/modules/somar.js) 
    - 📄[modules/subtrair.js](/FrontEndII/Aula03/js/modules/subtrair.js) 
