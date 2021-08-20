@@ -17,3 +17,8 @@ O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades pr
 📄 [Visualizar Diretório](/FrontEndII/Aula03/MesaDeTrabalho)
 
 🌐 [Veja ao vivo](https://ronilsonalves.github.io/CertifiedTechDeveloper/FrontEndII/Aula03/MesaDeTrabalho/index.html)
+
+### Aula 06 (19/08/2021) - Prática Integradora - Modificando o DOM na prática (Mesa de trabalho 02) ✔️✔️
+📄 [Visualizar Diretório](/FrontEndII/Aula06/Encontro)
+
+🌐 [Veja ao vivo](https://ronilsonalves.github.io/CertifiedTechDeveloper/FrontEndII/Aula06/Encontro/index.html)
