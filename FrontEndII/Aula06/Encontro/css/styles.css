@@ -33,9 +33,9 @@ li {
     font-size: 1.1em;
 }
 
-.title {
+/* .title {
     border: solid white;
-}
+} */
 
 #card-container {
     display: flex;

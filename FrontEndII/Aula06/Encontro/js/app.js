@@ -1,4 +1,7 @@
-/* Exercício da mesa de trabalho #2 > Adriano, Alan Alves, Carlos Augusto, Diego Calheiros, Fernando de Amorin, Matheus Augusto, Ronilson Alves e Samuel Xavier  */
+/* Exercício da mesa de trabalho #2 
+    *Integrantes:
+    * Adriano, Alan Alves, Carlos Augusto, Diego Calheiros, Fernando de Amorin, Matheus Augusto, Ronilson Alves e Samuel Xavier
+    */
 const listadeFelinos = [
     {
       title: 'O tigre',
