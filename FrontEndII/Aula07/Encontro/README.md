@@ -9,9 +9,8 @@ O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades pr
 
 🌐 [Veja ao vivo](https://ronilsonalves.github.io/CertifiedTechDeveloper/FrontEndII/Aula07/Encontro/index.html)
 
-### Screenshots
+### Screenshot
 ![](./img/print/cel.png)
-![](./img/print/nav.png)
 
 ### Aula 07 (24/08/2021) - Prática Integradora - Trabalhando com nós [encontro] (Mesa de trabalho ??) ✔️✔️
 #### Exercício Aula 07
