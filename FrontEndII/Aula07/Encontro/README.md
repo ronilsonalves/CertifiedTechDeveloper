@@ -11,7 +11,6 @@ O Conteúdo destina-se à avaliação das habilidades do aluno nas atividades pr
 
 ### Screenshots
 ![](./img/print/cel.png)
-
 ![](./img/print/nav.png)
 
 ### Aula 07 (24/08/2021) - Prática Integradora - Trabalhando com nós [encontro] (Mesa de trabalho ??) ✔️✔️
