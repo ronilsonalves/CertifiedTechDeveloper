@@ -1,0 +1,164 @@
+/* 
+ * Mesa de trabalho #?: Maycon, Rafael Teixeira, Ronilson Alves, Samuel Xavier e Vivian Sanches
+ * Objetivo: Construir um formulário e alterar suas propriedades com JavaScript.
+ *
+ */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(219, 219, 219);
+    color: #63316d;
+    /* Animações */
+    -webkit-animation: fadeIn ease 1.0s;
+    -moz-animation: fadeIn ease 1.0s;
+    -o-animation: fadeIn ease 1.0s;
+    -ms-animation: fadeIn ease 1.0s;
+    animation: fadeIn ease 1.0s;
+}
+
+
+#logoImg {
+    padding: 5px 0 100px;
+    min-height: 2em;
+    background-image: url("../img/in.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.title {
+    padding: 22px;
+}
+
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    font-weight: bold;
+}
+
+#formulario{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    height: 75vh;
+    width: 33vw;
+    padding: .5em 2em;
+    border-radius: 10px;
+    border: solid white;
+    background-color: white;
+    margin: 06% auto;
+}
+
+.item-form {
+    padding: 10px;
+}
+
+#cancelarBtn, #enviar {
+    border-radius: 12px;
+    border: solid #ff0000;
+    background-color: red;
+    color: white;
+    margin: 15px 5px 0;
+    padding: 5px;
+    font-size: 20px;
+}
+
+#enviar {
+    border: solid #63316d;
+    background-color: #63316d;
+    color: #FFFF;
+}
+
+#enviar:hover{
+    background-color: #91509e;
+    color: white;
+}
+
+#cancelarBtn:hover{
+    background-color: tomato;
+    border: solid tomato;
+}
+
+label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input {
+    width: 100%;
+    align-items: left;
+    padding: 6px;
+    margin: 5px 0;
+    color: #63316d;
+    font-size: 18px;
+    border: solid #63316d .09em;
+    border-radius: 8px;
+}
+
+@media screen and (max-width: 915px) {
+    #formulario {
+        width: 60%;
+        margin: 25% auto;
+    }
+    #logoImg {
+        padding: 5px 0 40px;
+    }
+
+    .item-form {
+        padding: 4px;
+    }
+}
+
+/* Vai uma animação aí? */
+@keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-moz-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-webkit-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-o-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+    }
+  }
+  
+  @-ms-keyframes fadeIn {
+    0% {
+      opacity:0;
+    }
+    100% {
+      opacity:1;
+  }
+}
