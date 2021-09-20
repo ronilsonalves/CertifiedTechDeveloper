@@ -33,4 +33,4 @@ Os arquivos .Java estão dispostos seguindo a seguinte estrutura:
       - `Turno.Java` 
 
 ## Links
-[Diretório do Checkpoint I no Github](POO/fabricadesoftware) | [Perfil no LinkedIn](https://linkedin.com/in/ronilsonalves)
+[Diretório do Checkpoint I no Github](/fabricadesoftware) | [Perfil no LinkedIn](https://linkedin.com/in/ronilsonalves)
