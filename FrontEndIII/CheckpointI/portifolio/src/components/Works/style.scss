@@ -1,0 +1,31 @@
+#works {
+    .h2 {
+        color: white;
+        font-weight: 400;
+    }
+    .row {
+        div:hover {
+            transition: all 02s ease-in-out;
+            padding: 12px;
+        }
+    }
+    .bg-image {
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: rgb(0, 0, 0);
+        align-items: center;
+    }
+    .mask {
+        height: 50vh;
+        background-color: rgba(0, 0, 0, 0.329);
+
+        &:hover{
+            background-color: rgba(0, 0, 0, 0.695);
+            transition: all 0.5s ease-in-out;
+        }
+        #gitview-btns {
+            transition: none;
+        }
+    }
+}

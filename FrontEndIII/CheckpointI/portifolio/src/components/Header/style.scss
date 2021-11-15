@@ -1,0 +1,41 @@
+header {
+  #cabecalho.navbar {
+    background-color: #023e;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+
+    .navbar-brand {
+      padding-left: 1.5em;
+      font-size: 30px;
+      align-items: center;
+      margin: auto;
+      text-decoration: none;
+      color: #fff;
+      img {
+        height: 54px;
+      }
+    }
+
+    #navbarText {
+      .nav-item {
+        text-align: center;
+        align-items: center;
+        justify-self: end;
+        a {
+          padding: 12px;
+          display: inline-block;
+          color: #fff;
+          text-decoration: none;
+          border-radius: 12px;
+          font-weight: 400;
+          transition: all 0.3s ease-in-out;
+
+          &:hover {
+            background: #fff;
+            color: #023e !important;
+          }
+        }
+      }
+    }
+  }
+}
