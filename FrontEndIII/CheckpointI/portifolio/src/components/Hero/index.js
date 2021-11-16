@@ -11,7 +11,7 @@ export default class Hero extends Component {
                 <div className="mask text-white">
                     <div className="container d-flex align-items-center text-center">
                         <div>
-                            <h1 className="display-4 mt-5 py-5 px-5 ">"Olá, mundo!"</h1>
+                            <h1 className="display-3 mt-4 py-3 px-3 ">"Olá, mundo!"</h1>
                             <p className="lead">
                                 É um prazer ter você por aqui. Essa é minha home page, mas você pode se sentir em casa, tá?
                                 Aqui você pode conhecer um pouco mais sobre mim e minhas motivações pra seguir na área de TI,

@@ -1,14 +1,13 @@
 #hero.bg-image {
-    background-image: url(https://imgsitepessoal.s3.sa-east-1.amazonaws.com/code-ge2b180d34_1920.jpg);
+    background-image: url(https://imgsitepessoal.s3.sa-east-1.amazonaws.com/imgs/code-ge2b180d34_1920.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center;
     color: white;
     align-items: center;
-    height: 50vh;
 
     .mask {
-        height: 50vh;
+        /* height: auto; */
         background-color: rgba(0, 0, 0, 0.329);
 
         &:hover{

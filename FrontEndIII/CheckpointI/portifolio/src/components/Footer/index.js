@@ -17,7 +17,7 @@ export default class Footer extends Component {
                     </div>
                     <div className="text-center text-white p-3">
                         <p>Copyright ©2021 - <a className="text-white" href="https://ronilsonalves.com/">Ronilson Alves</a>. Todos os direitos reservados.</p>
-                        Desenvolvido em React, feito com <i className="bi bi-heart-fill"> </i> 
+                        Desenvolvido em React, feito com <i className="bi bi-heart-fill"> </i>
                     </div>
                 </footer>
             </>

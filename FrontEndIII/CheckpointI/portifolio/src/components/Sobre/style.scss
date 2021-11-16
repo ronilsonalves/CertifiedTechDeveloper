@@ -1,3 +1,42 @@
-.carouselExampleCaptions {
-    height: 100%;
+#sobre {
+
+    #astronomia {
+        background-image: url(https://imgsitepessoal.s3.sa-east-1.amazonaws.com/imgs/milky-way-2544746_1920.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        align-items: center;
+    }
+
+    #escrita {
+        background-image: url(https://imgsitepessoal.s3.sa-east-1.amazonaws.com/imgs/letters-1834501_1920.jpg);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-position: center;
+        color: white;
+        align-items: center;
+    }
+
+    .mask {
+        background-color: rgba(0, 0, 0, 0.329);
+        .lead {
+            display: none;
+        }
+
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.695);
+            transition: all 0.3s ease-in-out;
+
+            .lead {
+                display: block;
+            }
+        }
+    }
+}
+
+#skills {
+    .container, .d-flex {
+        color: white;
+    }
 }
