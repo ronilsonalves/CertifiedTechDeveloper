@@ -32,7 +32,7 @@ export default class Works extends Component {
             url_github: 'https://github.com/ALTbruno/projetoFrontEnd'
         },
         {
-            id: 1,
+            id: 3,
             short: 'projeto-incrivel-ii',
             nome: 'BULMA CSS',
             descricao: 'Mais legal do que Bootstrap e ao meu ver, com componentes mais bonitos.',

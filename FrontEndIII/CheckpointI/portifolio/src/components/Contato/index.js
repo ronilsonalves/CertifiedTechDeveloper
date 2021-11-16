@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Component } from "react";
 import { Formik, Form, Field } from 'formik';
 import { initializeApp } from "firebase/app";
